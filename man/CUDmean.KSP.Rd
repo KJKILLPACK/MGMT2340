@@ -2,7 +2,7 @@
 % Please edit documentation in R/FunctionsAddedForHW.R
 \name{CUDmean.KSP}
 \alias{CUDmean.KSP}
-\title{Title}
+\title{Cumulative Uniform Distribution expected value (mean / arithimatic mean)}
 \usage{
 CUDmean.KSP(Top, Bottom)
 }
@@ -15,7 +15,7 @@ CUDmean.KSP(Top, Bottom)
 expected value (or mean) of the range
 }
 \description{
-Title
+Cumulative Uniform Distribution expected value (mean / arithimatic mean)
 }
 \examples{
 A train usually arives between 30 to 200 seconds late what is the expected value CUDmean.KBS(200, 30)

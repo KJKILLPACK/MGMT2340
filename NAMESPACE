@@ -3,6 +3,7 @@
 export(CUDmean.KSP)
 export(CUDprob.KSP)
 export(CUDsd.KSP)
+export(LETSTUDYc1)
 export(X2YmLND)
 export(X2YsdLND)
 export(Y2XmLND)

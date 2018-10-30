@@ -2,7 +2,7 @@
 % Please edit documentation in R/FunctionsAddedForHW.R
 \name{CUDsd.KSP}
 \alias{CUDsd.KSP}
-\title{Title}
+\title{Cumulative Uniform Distribution Standard Deviation}
 \usage{
 CUDsd.KSP(Top, Bottom)
 }
@@ -15,7 +15,7 @@ CUDsd.KSP(Top, Bottom)
 standard deviation of the range
 }
 \description{
-Title
+Cumulative Uniform Distribution Standard Deviation
 }
 \examples{
 A train usually arives between 30 to 200 seconds late what is the standard deviation CUDsd.KBS(200, 30)

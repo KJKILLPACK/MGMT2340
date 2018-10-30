@@ -2,7 +2,7 @@
 % Please edit documentation in R/FunctionsAddedForHW.R
 \name{CUDprob.KSP}
 \alias{CUDprob.KSP}
-\title{Title}
+\title{Cumulative Unifrom Distribution Probability P(X < x) calculator}
 \usage{
 CUDprob.KSP(X, Top, Bottom)
 }
@@ -17,7 +17,7 @@ CUDprob.KSP(X, Top, Bottom)
 probabiliy that X < x
 }
 \description{
-Title
+Cumulative Unifrom Distribution Probability P(X < x) calculator
 }
 \examples{
 A train usually arives between 30 to 200 seconds late what is the probability the train arives within 160 seconds: CUDprob.KBS(160, 200, 30)
