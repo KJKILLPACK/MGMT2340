@@ -84,7 +84,7 @@ zscore.KSP <- function(x, m, sd){
 }
 
 
-#' Title
+#' Cumulative Uniform Distribution expected value (mean / arithimatic mean)
 #'
 #' @param Top the Greater number in the range
 #' @param Bottom the lesser number in the range
@@ -98,7 +98,7 @@ CUDmean.KSP <- function(Top, Bottom){
   return(µ)
 }
 
-#' Title
+#' Cumulative Uniform Distribution Standard Deviation
 #'
 #' @param Top the Greater number in the range
 #' @param Bottom the lesser number in the range
@@ -113,7 +113,7 @@ CUDsd.KSP <- function(Top, Bottom){
   return(ø)
 }
 
-#' Title
+#' Cumulative Unifrom Distribution Probability P(X < x) calculator
 #'
 #' @param X value for probability P(X < x)
 #' @param Top the Greater number in the range

@@ -1,7 +1,7 @@
 Package: KillpackStatsPackage
 Type: Package
-Title: Calculates the var and sd of a population rather than the sample (N rather than n-1) 
-Version: 0.1.0
+Title: Formulas that may be helpful in MGMT 2340 statistics of Business
+Version: 0.1.1
 Author: Kaden James Killpack
 Maintainer: Kaden James Killpack <Kadenkillpack@gmail.com>
 Description: Designed for students in MGMT 2340 at UVU under DR Ronald Miller PHD to run sd and var of a population as well as provide other basic operations that weren't easy for me to find. Killpack.growth.calculator calculates the average(geometric mean) growth of returns even when negative intingers are in the numerical vector
