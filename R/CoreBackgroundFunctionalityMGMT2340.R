@@ -20,7 +20,7 @@ FullCoursePackages <- function(){
 LETSTUDYc1 <- function(){
 library(jmv)
 library(graphics)
-load("~/KillpackStatsPackage/Marital_Status1.Rdata")
+ load("~/KillpackStatsPackage/data/Marital_Status.Rdata")
 }
 
 

@@ -25,6 +25,7 @@ jmv::descriptives(
 Load Marital Status 
 
 ```{r}
+LETSTUDYc1()
 pie(Marital_Status$'1960', labels = Marital_Status$'Marital Status', main = "Marital Status, 1960")
 ```
 
